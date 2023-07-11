@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BC-Pyle
 - 👀 I’m interested in ... getting into front end development and UX/UI. Currently in a non-tech position and interested in a new career path.
-- 🌱 I’m currently learning ...  JavaScript, to be followed with HTML and CSS
+- 🌱 I’m currently learning ...  React
 - 📫 How to reach me ... TBA
 
 <!---
